@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio Dio</title>
+</head>
+<body>
+    <h1> Titulo </h1>
+    <hr>
+    <h2> Sub_Titulo </h2>
+    <h3> Eu sou um h3</h3>
+    <h4> Eu sou um h4</h4>
+    <h5> Eu sou um h5</h5>
+    <h6> Eu sou um h6</h6>
+
+
+    <p>Eu sou paragrafo 
+                        <br><mark>mark</mark>
+                        <br><small>small</small>
+                        <br><i>Italico</i><br><u>Sumblinhado</u>
+                        <br><strong>Forte</strong><br>Log<sub>2</sub><br>2<sup>2</sup>
+                        <br><font>Um texto</font>
+                        <br><del>texto_Apagado</del><br><abbr title="UNIVERSIDADE FEDERAL DO RIO GRANDE DO NORTE">UFRN</abbr></p>
+
+    <ol>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ol>
+
+    <ul>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+
+
+      <blockquote cite="https://www.dio.me/">
+        <P>Uma citação</P>
+      </blockquote>
+    <br>
+    <hr>
+      <a href="https://www.dio.me/">Link para o site da DIO</a>
+  </body>
+</html>
+
